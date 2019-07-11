@@ -11,7 +11,7 @@ Created: 2019-07-11
 
 ## Address of the transfer recipient
 
-We request funds to be sent to the multisig 0xa8782136554fE991F1fFE65BE581C4212A270465. This multisig will be used for the cold storage of received funds.
+We request funds to be sent to the multisig `0xa8782136554fE991F1fFE65BE581C4212A270465`. This multisig will be used for the cold storage of received funds.
 
 ## Amount of the transfer
 
